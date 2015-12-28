@@ -1,0 +1,25 @@
+{
+  "name": "lodash-legacy",
+  "version": "0.0.1",
+  "description": "shim module to export lodash@2 for edge cases requiring lodash ~2 && ^3",
+  "main": "lodash-legacy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premiumFrye/lodash-legacy.git"
+  },
+  "keywords": [
+    "lodash",
+    "dependency",
+    "legacy",
+    "underscore"
+  ],
+  "author": "fryen <nicholas.frye@dowjones.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premiumFrye/lodash-legacy/issues"
+  },
+  "homepage": "https://github.com/premiumFrye/lodash-legacy#readme",
+  "dependencies": {
+    "lodash": "^2.4.2"
+  }
+}
