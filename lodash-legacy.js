@@ -1,3 +1,1 @@
-
-module.exports(require('lodash'););
-
+module.exports = require('lodash');

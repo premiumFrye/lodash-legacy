@@ -1,6 +1,6 @@
 {
   "name": "lodash-legacy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "shim module to export lodash@2 for edge cases requiring lodash ~2 && ^3",
   "main": "lodash-legacy.js",
   "repository": {
